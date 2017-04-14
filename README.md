@@ -1,9 +1,8 @@
 # [JavaScript30](https://github.com/wesbos/JavaScript30#javascript30)
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
-
-Grab the course at https://JavaScript30.com
+使用 JavaScript 完成30道练习 (2/30)
 
 ---
-1. 01 - JavaScript Drum Kit
-2. 02 - JS and CSS Clock
+1. 01 - JavaScript Drum Kit  - 一个打鼓小程序 [点我打鼓](https://tanteichang.github.io/JavaScript30/01-JavaScriptDrumKit/index-START.html) | [查看代码](https://github.com/soyaine/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+2. 02 - JS and CSS Clock -
+纯 JS 实现的时钟 [点我查看时间]() | [查看代码]()

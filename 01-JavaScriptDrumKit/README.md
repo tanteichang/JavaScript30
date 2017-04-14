@@ -1,6 +1,7 @@
 # JavaScript Drum Kit
 
 ### 一个纯 JS 实现的打鼓页面
+[点我预览](https://tanteichang.github.io/JavaScript30/01-JavaScriptDrumKit/index-START.html)
 
 - 添加键盘监听事件 监听 `keydown` 事件
 
