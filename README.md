@@ -9,3 +9,4 @@
 3. 03 - CSS Variables -
 用 JavaScript 改变 CSS 样式
 [点我查看demo](https://tanteichang.github.io/JavaScript30/03-CSS-Variables/index.html) | [查看代码](https://github.com/tanteichang/JavaScript30/tree/master/03-CSS-Variables)
+4. 04 - Array Cardio Day 1 - 数组的方法练习
