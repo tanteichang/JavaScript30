@@ -6,7 +6,7 @@
 ---
 
 
-- [x] 01 - JavaScript Drum Kit  - 一个打鼓小程序 [点我打鼓](https://tanteichang.github.io/JavaScript30/01-JavaScriptDrumKit/index-START.html) | [查看代码](https://github.com/soyaine/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+- [x] 01 - JavaScript Drum Kit  - 一个打鼓小程序 [点我打鼓](https://tanteichang.github.io/JavaScript30/01-JavaScriptDrumKit/index-START.html) | [查看代码](https://github.com/tanteichang/JavaScript30/tree/master/01-JavaScriptDrumKit)
 - [x] 02 - JS and CSS Clock -
 纯 JS 实现的时钟 [点我查看时间](https://tanteichang.github.io/JavaScript30/02-JS-and-CSS-Clock/index-START.html) | [查看代码](https://github.com/tanteichang/JavaScript30/02-JS-and-CSS-Clock)
 - [x] 03 - CSS Variables -
