@@ -14,12 +14,12 @@
 [点我查看demo](https://tanteichang.github.io/JavaScript30/03-CSS-Variables/index.html) | [查看代码](https://github.com/tanteichang/JavaScript30/tree/master/03-CSS-Variables)
 - [x] 04 - Array Cardio Day 1 - 数组的方法练习
 [查看代码](https://github.com/tanteichang/JavaScript30/tree/master/04-Array-Cardio-Day-1)
-- [ ] 05 - Flex Panel Gallery
-- [ ] 06 - Type Ahead
-- [ ] 07 - Array Cardio Day 2
+- [x] 05 - Flex Panel Gallery
+- [x] 06 - Type AheadP
+- [x] 07 - Array Cardio Day 2
 - [ ] 08 - Fun with HTML5 Canvas
-- [ ] 09 - Dev Tools Domination
-- [ ] 10 - Hold Shift and Check Checkboxes
+- [x] 09 - Dev Tools Domination
+- [x] 10 - Hold Shift and Check Checkboxes
 - [ ] 11 - Custom Video Player
 - [ ] 12 - Key Sequence Detection
 - [ ] 13 - Slide in on Scroll
